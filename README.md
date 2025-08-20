@@ -12,3 +12,12 @@
 | Subdomains       | `api`, `dev`, `sales`                  | Service → Env → Department structure        |
 | Path             | `/v1/users/12345/profile`              | Accesses user profile via RESTful API       |
 | Query Parameters | `include=details`, `format=json`       | Optional fields for expanded info & format  |
+
+
+---
+
+### Development Toolkit
+
+- IntelliJ IDEA (IDE): `https://www.jetbrains.com/idea/`
+- Fork (Git Client): `https://fork.dev/`
+- Postman (API platform): `https://www.postman.com/`
