@@ -20,5 +20,6 @@
 
 - IntelliJ IDEA (IDE): `https://www.jetbrains.com/idea/`
 - Microsoft SQL Server Management Studio (Managing SQL infrastructure): `https://learn.microsoft.com/en-us/ssms/`
+- Rancher Desktop (Container Management and Kubernetes): `https://rancherdesktop.io/`
 - Fork (Git Client): `https://fork.dev/`
 - Postman (API platform): `https://www.postman.com/`
